@@ -14,5 +14,6 @@ In this assignment, we will use RTSP to create a simple small application to exa
 3. Currently, the client and server only implement the minimum necessary RTSP interactions and PAUSE. Implement the method DESCRIBE which is used to pass information about the media stream. When the server receives a DESCRIBE-request, it sends back a session description file which tells the client what kinds of streams are in the session and what encodings are used.
 ## Report
 View report.pdf for more detail
-![GitHub Logo](/Usecase.png)
-Format: ![Alt Text](url)
+### Diagram
+![Usecase diagram](/Usecase.png)
+![Class diagram](/ClassDiagram.png)
